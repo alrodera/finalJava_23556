@@ -1,0 +1,5 @@
+modelo\Orador.class
+util\ConexionDB.class
+.netbeans_automatic_build
+controlador\RegistroOrador.class
+dao\OradoresDAO.class
